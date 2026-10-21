@@ -1,1 +1,1 @@
-{"keys":[{"crv":"Ed25519","x":"I_C-X8abMJHil4GNowb9Oe9XhBLIi4wQdXv4JSKcsyk","kty":"OKP","kid":"software-sandbox-execution-service-2026-07-21","alg":"EdDSA","use":"sig"}]}
+{"keys":[{"crv":"Ed25519","x":"nxmfO8zWb2plDXTo4GMx2ZIkAmrxnOb9D0yNN1uEDY8","kty":"OKP","kid":"software-sandbox-execution-service-2026-10-21","alg":"EdDSA","use":"sig"}]}
